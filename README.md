@@ -7,9 +7,12 @@ Section 2
       JDK Version: java version "10.0.1"
 
 Section 3
-a)     Sonar lint scan snapshot
+a)     Sonar lint scan snapshot -
+    ![Sonarlint] (https://github.com/shreyasm/interview_tiaa/blob/master/SonarLint.PNG)
 b)     Final Output Snapshot
+    ![Output] (https://github.com/shreyasm/interview_tiaa/blob/master/Output.PNG)
 c)     Junit Coverage Snapshot
+    ![Junit] (https://github.com/shreyasm/interview_tiaa/blob/master/Junit.PNG)
 
 
 Section 4
